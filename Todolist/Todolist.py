@@ -15,7 +15,7 @@ from tkinter import filedialog
 
 # create the tkinter module
 root = Tk()
-root.title('To-Do List by Charles Lughas')
+root.title('To-Do List')
 root.iconbitmap()
 root.geometry("700x500")
 root.configure(background="#D8271B")
